@@ -3,6 +3,7 @@
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
 			<item value="/Users/metinarslan/hrms-backend/hrms-backend-master"/>
+			<item value="/Users/metinarslan/hrms-backend/hrms-backend-main/hrms-backend-master"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
